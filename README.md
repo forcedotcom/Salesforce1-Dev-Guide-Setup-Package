@@ -1,11 +1,8 @@
-Salesforce1-Dev-Guide-Setup-Package
-===================================
-
 ## About Install
 Use the link below to install the unmanaged package for the Salesforce1 App Developer Guide schema and miscellaneous extra components like Visualforce Pages, Static Resources, etc. 
 
 ##Installation URL
-http://bit.ly/s1package
+https://login.salesforce.com/packaging/installPackage.apexp?p0=04tA0000000AHkR
 
 ##Installation Steps
 1. Log into your Developer Edition org. 
